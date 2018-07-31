@@ -25,5 +25,5 @@ NLP (mostly with Python), web dev (Flask, AWS, Meteor??)
 ## Community
 
 Regular (bi-weekly? monthly?) lab meetings, where:
-- we discuss a "meta" (e.g., methods, philosophy, critical) or "content" reading (broadly relevant to at least 2+ projects or larger lab themes)
+- we discuss a "meta" (e.g., methods, philosophy, critical) or "content" reading (broadly relevant to at least 2+ projects or larger lab themes) - starting point for readings [here](https://docs.google.com/document/d/1TLioDAoyEq_G3yxO6WNEHtT_8_kotahvFkES9RqMBmo/edit?usp=sharing)
 - project leads share progress / ask for "thinking hats" (sometimes)
