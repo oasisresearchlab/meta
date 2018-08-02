@@ -1,6 +1,8 @@
 # Who are we / what are we interested in?
 
-Interested in "megacognition", connecting ourselves back to the roots of HCI in the ideas of Engelbart and others, which focuses on exploring computing as a way to augment human cognition and intelligence.
+Interested in "megacognition". Mega = awesome/better/augmented, cognition = thinking.
+
+This name reflects our desire to be rooted in one founding philosophy of HCI in the ideas of [Engelbart](https://www.dougengelbart.org/pubs/augment-3906.html) and others (e.g., the ["bicycle of the mind"](https://stratechery.com/2018/techs-two-philosophies/), which emphasize computing as a way to **augment human cognition and intelligence**. 
 
 Megacognition also doubles as a way to describe the kinds of cognition we are interested in augmenting: high level capabilities like creativity, design, problem solving, and complex reasoning and decision-making, in domains like policymaking and service design and scientific discovery and basic R&D.
 
