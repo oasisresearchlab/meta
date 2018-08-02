@@ -26,10 +26,15 @@ NLP (mostly with Python), web dev (Flask, AWS, Meteor??)
 
 ## Community
 
+Inspiration:
+- [DeltaLab](http://delta.northwestern.edu/HowWeWork) at Northwestern
+
 Regular (bi-weekly? monthly?) lab meetings, where:
 - we discuss a "meta" (e.g., methods, philosophy, critical) or "content" reading (broadly relevant to at least 2+ projects or larger lab themes) - starting point for readings [here](https://docs.google.com/document/d/1TLioDAoyEq_G3yxO6WNEHtT_8_kotahvFkES9RqMBmo/edit?usp=sharing)
 - project leads share progress / ask for "thinking hats" (sometimes)
 
 ## Pathways into the community
 
-Would love to have more structure/scaffolding here (especially for undergrads), mixed with some policy (e.g., volunteer or hourly pay for trial period before considering GAship; generally reserve GAships for doctoral students, etc.)
+Would love to have more structure/scaffolding here (especially for undergrads), mixed with some policy (e.g., volunteer or hourly pay for trial period before considering GAship; generally reserve GAships for doctoral students, etc.) for understanding what are some common "stages" of involvement (e.g., interested friend, volunteer, regular contributor, project lead), how each stage is supported, and how one might move up/down stages if desired.
+
+The goal is to make things more explicit, to avoid the [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) and open up pathways to broadening participation and optimizing professional development.
