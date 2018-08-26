@@ -38,3 +38,5 @@ Regular (bi-weekly? monthly?) lab meetings, where:
 Would love to have more structure/scaffolding here (especially for undergrads), mixed with some policy (e.g., volunteer or hourly pay for trial period before considering GAship; generally reserve GAships for doctoral students, etc.) for understanding what are some common "stages" of involvement (e.g., interested friend, volunteer, regular contributor, project lead), how each stage is supported, and how one might move up/down stages if desired.
 
 The goal is to make things more explicit, to avoid the [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) and open up pathways to broadening participation and optimizing professional development.
+
+I really like Lana's pattern: http://lanayarosh.com/work-with-me/. She has clear pathways (affiliate vs. student researcher) and clear steps for how to get involved. I really like the pattern of doing a student challenge and meeting in office hours as the jumping off point, and the onboarding guide.
