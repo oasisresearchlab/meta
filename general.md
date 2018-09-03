@@ -40,3 +40,5 @@ Would love to have more structure/scaffolding here (especially for undergrads), 
 The goal is to make things more explicit, to avoid the [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) and open up pathways to broadening participation and optimizing professional development.
 
 I really like Lana's pattern: http://lanayarosh.com/work-with-me/. She has clear pathways (affiliate vs. student researcher) and clear steps for how to get involved. I really like the pattern of doing a student challenge and meeting in office hours as the jumping off point, and the onboarding guide.
+
+Another nice example set: https://duffylab.wordpress.com/important-lab-information-for-duffy-lab-undergraduates/
