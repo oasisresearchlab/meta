@@ -22,6 +22,8 @@ Mostly using the R stack.
 
 NLP (mostly with Python), web dev (Flask, AWS, Meteor??)
 
+Re: algorithms, we don't aim to create new algorithms. Our strengths are in understanding the human side of things, and using that deep insight to *leverage* existing computational technology to design/prototype novel interactive systems that support human creativity. This means we must be proficient essentially as machine learning practitioners, but we won’t be making fundamental contributions in that area.
+
 # What is it like to work in the lab?
 
 ## Community
