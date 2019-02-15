@@ -6,6 +6,26 @@ This name reflects our desire to be rooted in one founding philosophy of HCI in 
 
 Megacognition also doubles as a way to describe the kinds of cognition we are interested in augmenting: high level capabilities like creativity, design, problem solving, and complex reasoning and decision-making, in domains like policymaking and service design and scientific discovery and basic R&D.
 
+Kinds of problems we work on:
+- Problem solving (through technology)
+- Human-computer interaction
+- Reduce cognitive load
+- Facilitate knowledge management
+- Technological literacy
+- Community togetherness
+
+Outcome measures:
+- 
+
+Maybe pairings of phenomena and outcome measures
+
+Stuff we can do:
+- NLP
+- Front end react wizardry
+
+
+Objectives and key results
+
 # What do we value?
 
 Our values: can evolve (but probably slowly), reflect yearly
@@ -40,6 +60,10 @@ Re: algorithms, we don't aim to create new algorithms (but we might if we need t
 
 ## Practices
 
+Steady drum beat little bites
+knowing 
+priompt feedbasck
+
 Regular (bi-weekly? monthly?) lab meetings, where:
 - we discuss a "meta" (e.g., methods, philosophy, critical) or "content" reading (broadly relevant to at least 2+ projects or larger lab themes) - starting point for readings [here](https://docs.google.com/document/d/1TLioDAoyEq_G3yxO6WNEHtT_8_kotahvFkES9RqMBmo/edit?usp=sharing)
 - project leads share progress / ask for "thinking hats" (sometimes)
@@ -50,6 +74,11 @@ Other inspirations:
 - [DeltaLab](http://delta.northwestern.edu/HowWeWork) at Northwestern
 
 Would love to add here how we manage our knowledge :) Working on making that system!!
+
+Decided to prototype for Spring 2019:
+- Prototype with stand-up-Alice
+- Think Great Thoughts | Mind-Expanding | Inspiration | session, shoot for 1/semester
+- Sobering | Everything is Hard | Methods Upgrade session, shoot for 1/semester
 
 ## Expectations
 
