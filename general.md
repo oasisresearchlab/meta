@@ -104,3 +104,5 @@ The goal is to make things more explicit, to avoid the [tyranny of structureless
 I really like Lana's pattern: http://lanayarosh.com/work-with-me/. She has clear pathways (affiliate vs. student researcher) and clear steps for how to get involved. I really like the pattern of doing a student challenge and meeting in office hours as the jumping off point, and the onboarding guide. Similar is Anthony's idea of expedition vs. specialist roles in his ["joining the HCI group" opportunities doc](https://docs.google.com/document/d/1yFDNbHHbJRqv4BEBCV7d04wGPbhtsxLYsOGCEUAAUsE/edit?usp=sharing): resonates with my (independent?) ideas about having ppl first explore a topic and build rapport/refine interest before diving into a specific "critical path" role. I think we can learn from this for Masters' students too.
 
 Another nice example set: https://duffylab.wordpress.com/important-lab-information-for-duffy-lab-undergraduates/
+
+As the lab grows, we can consider transitioning to models like Haoqi and Walter (e.g., [Agile Research Studios](http://agileresearch.io/))
