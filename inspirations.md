@@ -1,0 +1,1 @@
+CO-RE Lab Lab Philosophy: https://docs.google.com/document/d/1aZWfCIReB9goSiEQcYQGWj70R0NXfQ0cOWKWa3julcA/edit?usp=sharing - reasonably comprehensive, with interesting distinguishing feature of a lab "canon" of readings. 
