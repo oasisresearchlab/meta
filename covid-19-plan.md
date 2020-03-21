@@ -23,9 +23,9 @@ So I will need your help. What follows is my current plan (subject to change; pl
 ## Asynchronous weekly check-ins
 
 3-step process:
-1. You commit a long-form memo (see draft template below) to the weekly-sprints directory in our [remote-work repo](https://github.com/megacognitionlab/remote-work/tree/master/weekly-sprints) under your name directory, titled "update-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md". 
+1. You commit a long-form memo (draft template [here](https://github.com/megacognitionlab/remote-work/blob/master/weekly-sprints/templates.md#weekly-update-draft-template)) to the weekly-sprints directory in our [remote-work repo](https://github.com/megacognitionlab/remote-work/tree/master/weekly-sprints) under your name directory, titled "update-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md". 
 2. Over the next 24 hrs (max), I iterate on the next critical path with you through comments on the commit
-3. You commit a plan document for the week to our weekly-updates repo (see draft template below) titled "plan-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md"
+3. You commit a plan document (draft template [here](https://github.com/megacognitionlab/remote-work/blob/master/weekly-sprints/templates.md#weekly-plan-draft-template) for the week to our weekly-updates repo titled "plan-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md"
 
 We can use our regular weekly advisor slot start times as the "trigger" for when I should expect to see your update and start working on it with you.
 
