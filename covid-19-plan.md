@@ -20,17 +20,12 @@ In the medium term (for the rest of the semester), we will need to figure out ho
 
 So I will need your help. What follows is my current plan (subject to change; please comment on the commit below with suggestions!), inspired heavily by [this blog post on managing remote work](https://knowyourteam.com/blog/2019/08/22/how-to-collaborate-effectively-in-a-remote-team/?utm_source=email&utm_medium=guide).
 
-Principles:
-- Writing first. Inspiration: know your team and basecamp, among others.
-- Asynchronous first, but make space for focused synchronous work when necessary.
-
-Here is my current plan:
 ## Asynchronous weekly check-ins
 
 3-step process:
-1. You commit a long-form memo (see draft template below) to our weekly-updates repo under your name directory, titled "update-<yourname>-<yyyy-mm-dd>-to-<yyyy-mm-dd>.md". 
+1. You commit a long-form memo (see draft template below) to the weekly-sprints directory in our [remote-work repo](https://github.com/megacognitionlab/remote-work/tree/master/weekly-sprints) under your name directory, titled "update-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md". 
 2. Over the next 24 hrs (max), I iterate on the next critical path with you through comments on the commit
-3. You commit a plan document for the week to our weekly-updates repo (see draft template below) titled "plan-<yourname>-<yyyy-mm-dd>-to-<yyyy-mm-dd>.md"
+3. You commit a plan document for the week to our weekly-updates repo (see draft template below) titled "plan-yourname-yyyy-mm-dd-to-yyyy-mm-dd.md"
 
 We can use our regular weekly advisor slot start times as the "trigger" for when I should expect to see your update and start working on it with you.
 
@@ -40,7 +35,7 @@ Regular (N times / week)" office hours" where you can sign up with a concrete ag
 My office hours is TBD atm, will be updated here soon!
 
 How it will work:
-1. Sign up for a slot in this doc: https://docs.google.com/document/d/1v_6emsA6GklCPgennzyZzB-0dU4EVD8qX0grasZLlLs/edit
+1. Sign up for a slot in [this doc](https://docs.google.com/document/d/1v_6emsA6GklCPgennzyZzB-0dU4EVD8qX0grasZLlLs/edit) 
 2. I will open a Zoom conference call for the duration of the "office hours" at this link: https://umd.zoom.us/j/5993447714 If Internet is bad, you can also join by phone at +1 301 715 8592 (Meeting ID: 599 344 7714)
 
 If you need to talk with me privately (i.e., you don't want anyone "dropping in" on accident and overhearing something), it is probably best to schedule a time outside of these office hours. Please do that over email.
